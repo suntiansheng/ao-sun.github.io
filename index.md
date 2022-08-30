@@ -8,7 +8,7 @@ I am a PhD student at [School of Economics, Xiamen University](http://www.soe.xm
 
 # Publications
 
-<p><ins>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</ins>, <em>Accepted by Journal of Econometrics</em>. The whole source code is <strong><a href = "https://github.com/suntiansheng/Gknockoff">here</a></strong></p>
+<p><ins>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</ins>, <em>Accepted by Journal of Econometrics</em>. R package Gknockoff can be found <strong><a href = "https://github.com/suntiansheng/Gknockoff">here</a></strong></p>
  <p><ins>Resource abundance, industrial structure, and regional carbon emissions efficiency in China</ins>, <em>Resources Policy</em>. You can see the result of this project <strong><a href = "https://da-sunao.shinyapps.io/engel_curve/">here</a></strong></p>
  
 # Contact
