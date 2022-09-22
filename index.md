@@ -9,7 +9,7 @@ I am a PhD student at [School of Economics, Xiamen University](http://www.soe.xm
 # Publications
 
 <p><ins>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</ins>. <br>
- Jingyuan Liu, Ao Sun and Yuan Ke. <em>Journal of Econometrics Accepted</em>. <br>
+ Jingyuan Liu, Ao Sun and Yuan Ke. <em>Journal of Econometrics In Press, doi: https://doi.org/10.1016/j.jeconom.2022.07.008</em>. <br>
  R package Gknockoff can be found <strong><a href = "https://github.com/suntiansheng/Gknockoff">here</a></strong>.</p>
  
  <p><ins>Resource abundance, industrial structure, and regional carbon emissions efficiency in China</ins>. <br>
